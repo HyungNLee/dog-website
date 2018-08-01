@@ -22,3 +22,15 @@ ul {
 li {
   font-size: 20px;
 }
+
+.listcenter {
+  width: 15%; margin-left: auto; margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.bluetext {
+  color: blue;
+}
